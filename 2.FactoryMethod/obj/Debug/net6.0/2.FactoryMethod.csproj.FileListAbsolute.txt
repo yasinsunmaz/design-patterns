@@ -1,0 +1,15 @@
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\bin\Debug\net6.0\2.FactoryMethod.exe
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\bin\Debug\net6.0\2.FactoryMethod.deps.json
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\bin\Debug\net6.0\2.FactoryMethod.runtimeconfig.json
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\bin\Debug\net6.0\2.FactoryMethod.dll
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\bin\Debug\net6.0\2.FactoryMethod.pdb
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\obj\Debug\net6.0\2.FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\obj\Debug\net6.0\2.FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\obj\Debug\net6.0\2.FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\obj\Debug\net6.0\2.FactoryMethod.AssemblyInfo.cs
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\obj\Debug\net6.0\2.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\obj\Debug\net6.0\2.FactoryMethod.dll
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\obj\Debug\net6.0\refint\2.FactoryMethod.dll
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\obj\Debug\net6.0\2.FactoryMethod.pdb
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\obj\Debug\net6.0\2.FactoryMethod.genruntimeconfig.cache
+C:\Users\yasin.sunmaz\source\repos\DesignPatterns\2.FactoryMethod\obj\Debug\net6.0\ref\2.FactoryMethod.dll
