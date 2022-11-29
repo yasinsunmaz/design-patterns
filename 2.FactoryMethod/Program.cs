@@ -1,4 +1,6 @@
-﻿using _2.FactoryMethod.PrinterExample;
+﻿using _2.FactoryMethod.BankAccountType;
+using _2.FactoryMethod.BankAccountType.Interfaces;
+using _2.FactoryMethod.PrinterExample;
 using _2.FactoryMethod.PrinterExample.Enums;
 using _2.FactoryMethod.PrinterExample.Interfaces;
 
@@ -27,7 +29,17 @@ string crediCardInfoForPlatinum = creditCardFactoryMethod.GetCardInfo(
                                 crediCardForPlatinum.GetCreditLimit(),
                                 crediCardForPlatinum.GetAnnualCharge());
 Console.WriteLine(crediCardInfoForPlatinum);
+Console.WriteLine();
+//BankAccountType Örneği
+Console.WriteLine("*** BankAccountType Örneği - FactoryMethod Tasarım Örneği ***");
+IAccountFactory accountFactory = new AccountFactory();
 
+var savingAccount = accountFactory.GetAccoutType("SAVING");
+Console.WriteLine("Hesap bakiyesini kaydet: " + savingAccount.Balance);
+
+var lastAccountBalance = accountFactory.GetAccoutType("CURRENT");
+Console.WriteLine("Mevcut hesap bakiyesi: " + lastAccountBalance.Balance);
+Console.WriteLine();
 // CreditCard - FactoryMethod ile Singleton Tasarım Örneği
 Console.WriteLine("*** CreditCard - FactoryMethod ile Singleton Tasarım Örneği ***");
 CreditCardFactoryMethodWithSingleton creditCardFactoryMethodWithSingleton1 = CreditCardFactoryMethodWithSingleton.createAsCreditCardFactoryMethodWithSingleton();

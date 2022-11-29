@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Abstract Factory Tasarım");
+﻿
+Console.WriteLine("Abstract Factory Tasarım");
