@@ -4,6 +4,10 @@ using _2.FactoryMethod.PrinterExample;
 using _2.FactoryMethod.PrinterExample.Enums;
 using _2.FactoryMethod.PrinterExample.Interfaces;
 
+//AÇIKLAMALAR
+//Abstract Factory bir sınıftır, Factory Method ise bir metottur. Factory Method tek bir nesnenin,
+//Abstract Factory birden fazla nesnenin yaratılmasını soyutlar. Bu amaçla Abstract Factory birden fazla Factory Method’a sahiptir.
+
 // CreditCard - FactoryMethod Tasarım Örneği
 Console.WriteLine("*** CreditCard - FactoryMethod Tasarım Örneği ***");
 
